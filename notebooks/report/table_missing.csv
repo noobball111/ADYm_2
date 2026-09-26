@@ -1,0 +1,12 @@
+,missing_rate,decision
+LocalTime,0.0,keep
+power,0.0,keep
+plant,0.0,keep
+site_id,0.0,keep
+cap_mw,0.0,keep
+ts,0.0,keep
+GHI,0.0,keep
+DNI,0.0,keep
+cloud,0.0,keep
+temp,0.0,keep
+cf,0.0,keep

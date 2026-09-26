@@ -1,0 +1,12 @@
+column,reason,decision
+LocalTime,other,review
+power,other,review
+plant,time/unit key,keep for feature building
+site_id,other,review
+cap_mw,other,review
+ts,time/unit key,keep for feature building
+GHI,correlation with target 0.84,keep
+DNI,correlation with target 0.68,keep
+cloud,correlation with target -0.27,keep
+temp,correlation with target 0.36,keep
+cf,target,keep
