@@ -1,0 +1,4 @@
+feature,pearson,spearman,p_value
+GHI,0.84,0.847,0.0
+DNI,0.68,0.727,0.0
+temp,0.355,0.357,0.0
